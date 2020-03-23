@@ -1,2 +1,2 @@
-# Data_Strutures_-_Algorithm
+# Data_Strutures_and_Algorithm
 Basic Data Structure and Algorithms
